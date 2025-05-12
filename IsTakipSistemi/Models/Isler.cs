@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IsTakipSistemi.Models
+namespace IsTakipSistemi.Models         // DTO kullanılarak oluşturulmuş
 {
     using System;
     using System.Collections.Generic;
